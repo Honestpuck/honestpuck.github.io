@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Explorations</title><link href="https://honestpuck.github.io/" rel="alternate"></link><link href="https://honestpuck.github.io/feeds/all.atom.xml" rel="self"></link><id>https://honestpuck.github.io/</id><updated>2025-03-28T11:27:00+11:00</updated><entry><title>My First Post</title><link href="https://honestpuck.github.io/my-first-post.html" rel="alternate"></link><published>2025-03-28T11:27:00+11:00</published><updated>2025-03-28T11:27:00+11:00</updated><author><name>Tony Williams</name></author><id>tag:honestpuck.github.io,2025-03-28:/my-first-post.html</id><content type="html">&lt;p&gt;Ths is my first post. It hares with most other first post a number of characteristics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It's short&lt;/li&gt;
+&lt;li&gt;It doesn't say much&lt;/li&gt;
+&lt;li&gt;It should probably disappear&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Philosophy"></category></entry></feed>
